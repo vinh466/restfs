@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+.dockerignore
+Dockerfile
+.vscode
+data
+.git
+.gitignore
+npm-debug.log
+yarn-error.log
+.idea
+*.tsbuildinfo
